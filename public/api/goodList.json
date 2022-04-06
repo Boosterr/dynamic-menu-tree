@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": "abc_172.22.22.214",
+            "name": "Contacts",
+            "isActive": false,
+            "nodes": [
+                {
+                    "id": "abc_172.22.22.214.if.1",
+                    "name": "Phone"
+                },
+                {
+                    "id": "abc_172.22.22.214.if.3",
+                    "name": "Email"
+                },
+                {
+                    "id": "abc_172.22.22.214.if.2",
+                    "name": "Instagram"
+                }
+            ]
+        },
+        {
+            "id": "MON_LOGS_192.168.1.53",
+            "name": "About Us",
+            "isActive": false,
+            "nodes": [
+                {
+                    "id": "MON_LOGS_192.168.1.53.if.1",
+                    "name": "Our web site"
+                },
+                {
+                    "id": "MON_LOGS_192.168.1.53.if.2",
+                    "name": "Our team"
+                }
+            ]
+        },
+        {
+            "id": "MON_LOGS_192.168.1.53",
+            "name": "Portfolio",
+            "isActive": false,
+            "nodes": [
+                {
+                    "id": "MON_LOGS_192.168.1.53.if.1",
+                    "name": "Web design"
+                },
+                {
+                    "id": "MON_LOGS_192.168.1.53.if.2",
+                    "name": "Photo"
+                }
+            ]
+        }
+    ]
+}
